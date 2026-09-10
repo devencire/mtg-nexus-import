@@ -1,0 +1,10 @@
+* generate a Saved Objects file from the Cockatrice XML
+* bundle info into the card descriptions (but it's user-visible and limited length)
+    * name, main type, rarity, mana cost?
+* write Tabletop Simulator Lua that reads the state of a deck and generates a booster
+    * '10 commons, 3 uncommons 1 rare is traditional'
+        * 'With a 1-in-something chance of the rare being replaced by a mythic.'
+        * 1/8 or so?
+        * MtG Arena: https://magic.wizards.com/en/mtgarena/drop-rates
+    * dedicated Godshard slot to make it 15?
+    * create the cards rather than drawing them (as duplicates should be possible)
