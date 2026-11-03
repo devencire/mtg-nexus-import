@@ -29,3 +29,7 @@ This is an unreasonably specialised tool for taking the Cockatrice XML Set Docum
   * This is the step that means other players will be able to download the card sheets
 * Save the game (now that the decks are pointing at the Cloud-saved sheet images)
 * Load in multiplayer, inflict on your friends
+
+### Credits
+
+Magic card back drawn by the inimitable [SeveralSeals](https://severalseals.itch.io/)
